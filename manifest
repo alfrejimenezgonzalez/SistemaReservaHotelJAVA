@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: isma.gui.EjemploLogin 
+Class-Path: mysql-connector-java-5.1.39/mysql-connector-java-5.1.39/mysql-connector-java-5.1.39-bin.jar
